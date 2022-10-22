@@ -1,4 +1,4 @@
-# DAY 1 - Hello World!
+# DAY 1 - "Hello World" in Python using 'print' statement 
 ## Project 1: Print into the World
 - Just learned my first command, the 'print' statement & shared my first Python project with the world!
 - Learned how to use multiple 'print' statements
