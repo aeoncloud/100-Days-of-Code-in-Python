@@ -5,7 +5,7 @@
 - Learned the concept of a 'variable'
 - Learned how to name a variable, and then how to print it
 - Debugged common coding errors such as NameError and SyntaxError
-- Created my second program 'Getting to know you!'
+- I just built my first interactive code which takes inputs from the user!
 
 ### Skills learned: print, input, variables
 
