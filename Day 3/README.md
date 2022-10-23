@@ -2,7 +2,7 @@
 ## Concepts Practiced
 - Learned the concept of 'concatenation'.
 - Learned how to combine texts (_strings_) and variables together into single sentences.
-- Debugged common coding error such as SyntaxError
+- Debugged common coding error such as SyntaxError.
 
 ## Learning Outcome
 Project 3: The Ultimate Wacky Recipe Maker
