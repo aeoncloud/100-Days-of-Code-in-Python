@@ -7,6 +7,6 @@
 ## Learning Outcome
 Project 2: Getting to know you Project!
 
-I just built my first interactive code which takes inputs from the user! The program asks for the user's name, favorite food, favorite music and where they live!
+I just built my first interactive code which takes inputs from the user. The program asks for the user's name, favorite food, favorite music and where they live!
 
 https://replit.com/@deveshincloud/day2of100-days-of-code-in-Python
