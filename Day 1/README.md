@@ -8,6 +8,6 @@
 ## Learning Outcome
 Project 1: Print into the world!
 
-Wrote my very first program in Python to print a message in the console
+Wrote my very first program in Python to print a message in the console.
 
 https://replit.com/@deveshincloud/day-1of100-days-of-code-in-Python
