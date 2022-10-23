@@ -3,7 +3,7 @@
 - Printing to the console in Python
 - Learned my first command, the 'print' statement & shared my first Python project with the world!
 - Learned how to use multiple 'print' statements
-- Used _triple quotes_ to print big chunks of text with gaps and line breaks
+- Used _"""triple quotes"""_ to print big chunks of text with gaps and line breaks
 - Debugged common coding errors such as NameError and SyntaxError
 
 ## Learning Outcome
