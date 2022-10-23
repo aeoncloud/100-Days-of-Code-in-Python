@@ -1,8 +1,8 @@
 # DAY 2 - Input and Variables
 ## Concepts Practiced
-- Learned about 'input' command and how to take user input
-- Learned the concept of a 'variable', how to name a variable, and then how to print it
-- Debugged common coding errors such as NameError and SyntaxError
+- Learned about 'input' command and how to take user input.
+- Learned the concept of a 'variable', how to name a variable, and then how to print it.
+- Debugged common coding errors such as NameError and SyntaxError.
 - I just built my first interactive code which takes inputs from the user!
 
 ## Learning Outcome
