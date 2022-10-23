@@ -7,4 +7,6 @@
 - Debugged common coding errors such as NameError and SyntaxError
 - Created my second program 'Getting to know you!'
 
+### Skills learned: print, input, variables
+
 https://replit.com/@deveshincloud/day2of100-days-of-code-in-Python
