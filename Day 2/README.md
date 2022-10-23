@@ -8,5 +8,4 @@
 - I just built my first interactive code which takes inputs from the user!
 
 ### Skills learned: print, input, variables
-
 https://replit.com/@deveshincloud/day2of100-days-of-code-in-Python
