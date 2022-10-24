@@ -6,5 +6,5 @@ The challenge is to build a program that asks for bunch of key facts about the u
 - Construct the story - basically anything you want.
     - Using _concatenation_ and the use of , and ""
 - One paragraph at a time using _print_ command.
-- Print the output in _colour_
+- Print the output in ***colour***
 ## Learning Outcome
