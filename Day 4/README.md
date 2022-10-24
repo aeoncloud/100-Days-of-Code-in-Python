@@ -10,3 +10,5 @@ The challenge is to build a program that asks for bunch of key facts about the u
 ## Concepts Practiced
 - Learned how to print coloured text in the output.
 - Used _print_ statements with special colour codes to specify text colour of your choice.
+## Learning Outcome
+Project 4: Welcome to your Adventure Story Simulator.
