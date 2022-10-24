@@ -1,4 +1,4 @@
-# Day 3 - Concatenation
+# DAY 3 - Concatenation
 ## Concepts Practiced
 - Learned the concept of 'concatenation'.
 - Learned how to combine texts (_strings_) and variables together into single sentences.
