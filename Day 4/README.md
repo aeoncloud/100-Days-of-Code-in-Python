@@ -7,4 +7,6 @@ The challenge is to build a program that asks for bunch of key facts about the u
     - Using _concatenation_ and the use of , and ""
 - One paragraph at a time using _print_ command.
 - Print the output in ***colour***
-## Learning Outcome
+## Concepts Practiced
+- Learned how to print coloured text in the output.
+- Used _print_ statements with special colour codes to specify text colour.
