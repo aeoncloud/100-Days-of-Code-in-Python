@@ -11,4 +11,8 @@ The challenge is to build a program that asks for bunch of key facts about the u
 - Learned how to print coloured text in the output.
 - Used _print_ statements with special colour codes to specify text colour of your choice.
 ## Learning Outcome
-Project 4: Welcome to your Adventure Story Simulator.
+Project 4: Welcome to your Adventure Story Simulator!
+
+Successfully built a program that creates a custom story (in colour) for the user, based on the information they provide. 
+
+https://replit.com/@deveshincloud/day4of100-days-of-code-in-Python
