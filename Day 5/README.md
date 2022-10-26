@@ -9,5 +9,5 @@
 ## Learning Outcome
 Project 4: "Which character are you?" Generator.
 
-Successfully built a "Who am I?" game with your favorite TV/movie characters.
+Successfully built a "Who am I?" game with your favorite TV/movie characters, with a series of _if/else_ statements which asks a bunch of questions and picks a character for you.
 
