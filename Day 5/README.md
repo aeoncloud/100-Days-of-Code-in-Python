@@ -9,6 +9,6 @@
 ## Learning Outcome
 Project 4: "Which character are you?" Generator.
 
-Successfully built my very first "Which character are you from Avengers?" using _if/else_ statements!
+Successfully built my very first "Which character are you from Avengers?" game using _if/else_ statements!
 
 https://replit.com/@deveshincloud/day5of100-days-of-code-in-Python
