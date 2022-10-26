@@ -8,4 +8,3 @@
 
 ## Learning Outcome
 Project 4: Built a "Who am I?" game with your favorite TV/movie characters.
-
