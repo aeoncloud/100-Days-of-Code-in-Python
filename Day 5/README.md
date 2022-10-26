@@ -1,3 +1,3 @@
-# DAY 5 - if...else statements
+# DAY 5 - Python Conditions and if/else statements
 
-Test
+## Concepts Practiced
