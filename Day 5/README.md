@@ -7,4 +7,7 @@
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
 
 ## Learning Outcome
-Project 4: Built a "Who am I?" game with your favorite TV/movie characters.
+Project 4: "Which character are you?" Generator.
+
+Successfully built a "Who am I?" game with your favorite TV/movie characters.
+
