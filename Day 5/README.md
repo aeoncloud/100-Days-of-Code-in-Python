@@ -3,7 +3,7 @@
 ## Concepts Practiced
 - Learned about the concepts of _if/else_ statements.
 - Learned about the concepts of logical operators in Python.
-- Generated actual Q&A's using _if_ statements.
+- Generated actual Q&A's using _if/else_ statements.
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
 
 ## Learning Outcome
