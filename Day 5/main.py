@@ -2,7 +2,7 @@ print("Which character are you from 'Avengers?'")
 print()
 print("Answer these questions and let's find out.")
 print()
-print("Please use Y or N for Yes and Nno.")
+print("Please use Y or N for Yes and No.")
 
 likeGreen = input("Do you like the color green?: ")
 if likeGreen == "Y":
