@@ -2,7 +2,7 @@
 
 ## Concepts Practiced
 - Learned about decision making in Python using _if/else_ statements.
-- Learned about the concepts of logical operators in Python.
+- Learned about the concepts of logical/boolean operators in Python.
 - Generated actual Q&A's using _if/else_ statements.
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
 
