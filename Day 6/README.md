@@ -7,5 +7,6 @@
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
 
 ## Learning Outcome
-Project 6: Created a login system using _input_ command where the user enters their username and password. Each users will get their own personalised greeting.
+Project 6: User login system.
 
+Created a simple login system using _input_ command, where the users will be asked to enter their username and password. If the users enter their information correctly, the system will greet each users with their own personalised message.
