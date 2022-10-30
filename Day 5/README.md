@@ -1,7 +1,7 @@
 # DAY 5 - Python Conditions and if/else statements
 
 ## Concepts Practiced
-- Learned about the concepts of _if/else_ statements.
+- Learned about decision making in Python using _if/else_ statements.
 - Learned about the concepts of logical operators in Python.
 - Generated actual Q&A's using _if/else_ statements.
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
