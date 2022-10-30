@@ -7,7 +7,7 @@
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
 
 ## Learning Outcome
-Project 4: "Which character are you?" Generator.
+Project 5: "Which character are you?" Generator.
 
 Successfully built my very first "Which character are you from Avengers?" game using _if/else_ statements!
 
