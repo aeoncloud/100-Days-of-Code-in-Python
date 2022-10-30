@@ -2,8 +2,8 @@
 
 ## Concepts Practiced
 - Learned about the concept of _elif_ statement.
-- Learned about Boolean Operators such as ***and***, ***or*** and ***not***.
-- Practiced _if_ and _elif_ statements using previously learned concepts such as _input_ command and _variables_.
+- Learned more about Boolean Operators such as ***and***, ***or*** and ***not***.
+- Practiced _if_ and _elif_ statements using previously learned concepts such as _input_ command, _variables_ and boolean operators.
 - Debugged common coding errors such as NameError, SyntaxError and IndentationError.
 
 ## Learning Outcome
