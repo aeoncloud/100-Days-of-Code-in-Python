@@ -9,6 +9,6 @@
 ## Learning Outcome
 Project 6: User login system.
 
-Created a simple login system using _input_ command, where the users will be asked to enter their username and password. If the users enter their information correctly, the system will greet each users with their own personalised message.
+Created a simple login system using _input_ command, where the users will be asked to enter their username and password. If the users enter their information correctly, the system will greet the users with a custom personalised message.
 
 https://replit.com/@deveshincloud/day6of100-days-of-code-in-Python
