@@ -4,7 +4,7 @@
 - Learned the concept of ***Nesting***.
     - ***Nesting*** is where we put an _if_ statement within an _if_ statement using _indentation_. The second _if_ statement within the first if statement must be indented and its _print_ statement needs to be indented one more time.
 - Practiced ***Nesting*** using previously learned concepts such as _input_ comnand, _variables_, _if/else_ statements, _elif_ statement, and _print_ command.
-- Debugged common coding errors such as NameError, SyntaxError and IndentationError.
+- Debugged common coding errors such as NameError, SyntaxError and IndentationError to generate follow-up questions.
 
 ## Learning Output
 
