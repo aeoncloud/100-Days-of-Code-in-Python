@@ -10,7 +10,4 @@
 
 Project 7: FAKE ANIME FAN FINDER.
 
-Using 
-
-Like nesting dolls, nest 'if' statements within 'if' statements. Create a game to find true fans of your favorite show.
-
+Using _Nesting_ and previously learned concepts, I built a game to test if you are a true fan of 'Naruto' anime TV show.
