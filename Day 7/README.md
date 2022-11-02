@@ -11,3 +11,5 @@
 Project 7: FAKE ANIME FAN FINDER.
 
 Using _Nesting_ and previously learned concepts, I built a game to test if you are a true fan of 'Naruto' anime TV show.
+
+https://replit.com/@deveshincloud/day7of100-days-of-code-in-Python
