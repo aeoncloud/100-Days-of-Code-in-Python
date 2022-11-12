@@ -1,3 +1,3 @@
-# DAY 8: This is a Test
+# DAY 8: Project Day!
 
 ## Concepts Practiced
